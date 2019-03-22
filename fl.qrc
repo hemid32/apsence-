@@ -1,0 +1,12 @@
+
+<RCC>
+  <qresource prefix="/imag">
+    <file alias='pagr.png'>imag/pagr.png</file>
+    <file alias='apsence.png'>imag/apsence.png</file>
+    <file alias='class.png'>imag/class.png</file>
+    <file alias='btn_1.png'>imag/btn_1.png</file>
+    <file alias='etidient.png'>imag/etidient.png</file>
+  </qresource>
+</RCC>
+
+
